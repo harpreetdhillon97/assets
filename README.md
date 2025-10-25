@@ -95,6 +95,7 @@ Returns all assets.
     "balance": 416285.75
   }
 ]
+```
 
 ---
 
