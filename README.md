@@ -15,7 +15,7 @@ npm install express sqlite3 cors body-parser
 ```
 
 #### Seed database with JSON data
-Place your `assets.json` file in the backend directory (already included in this project if you downloaded it from the assignment). Then run:
+Place your `assets.json` file in the backend directory. Then run:
 ```bash
 node seed.js
 ```
