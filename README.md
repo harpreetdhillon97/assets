@@ -39,7 +39,7 @@ npm install axios
 
 #### Run the React app
 ```bash
-npm start
+npm run start
 ```
 Open your browser at: **http://localhost:3000**
 
