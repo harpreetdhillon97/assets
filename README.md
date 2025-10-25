@@ -119,5 +119,4 @@ README.md
 
 ---
 
-**Author:** Fullstack Assignment Solution  
 **Stack:** React + Node.js + SQLite
