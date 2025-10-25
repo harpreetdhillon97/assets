@@ -95,10 +95,6 @@ Returns all assets.
     "balance": 416285.75
   }
 ]
-```
-
-### `GET /api/assets/:category`
-Fetch assets filtered by their primary category (e.g., `RealEstate`, `Investment`).
 
 ---
 
